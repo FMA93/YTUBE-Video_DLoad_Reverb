@@ -1,0 +1,10 @@
+# Requirements.txt
+
+# pytube for YouTube video download
+pytube==11.0.1
+
+# moviepy for video editing
+moviepy==1.0.3
+
+# pydub for audio processing
+pydub==0.25.1
